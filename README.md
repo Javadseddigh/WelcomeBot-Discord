@@ -33,7 +33,7 @@ git clone https://github.com/yourusername/discord-welcome-bot.git
 cd discord-welcome-bot
 
 # 3. Install dependencies
-pip install -r requirements.txt  # (or use the pip install command above)
+pip install discord.py python-dotenv
 
 # 4. Start the bot
 python bot.py
